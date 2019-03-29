@@ -3,5 +3,3 @@ R workshop at Steenbock
 
 #now I'm making an edit
 x <- 1+2
-
-final bad change
